@@ -83,4 +83,5 @@ You can see the original photo of the girl:
 
 And now it is processed, but not till the end, because my patience was over.
 Here in the bottom you can see parts that were not done
+
 ![Figure 11. Girl](figures/girl_res.PNG)
