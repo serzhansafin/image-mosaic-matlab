@@ -58,6 +58,10 @@ The result was like this:
 Much better now!
 But it took more time to process
 
+Then the height and width were chosen to be 7.
+And the result is here:
+![Figure 10. Kitten](figures/kitten_7_7.PNG)
+
 A lot of time was taken to produce a photo of one girl
 The height and width were chosen to be 2
 So for the benefit of quality, the price of time was taken :)
@@ -67,4 +71,4 @@ You can see the original photo of the girl:
 
 And now it is processed, but not till the end, because my patience was over.
 Here in the bottom you can see parts that were not done
-![Figure 10. Girl](figures/girl_res.PNG)
+![Figure 11. Girl](figures/girl_res.PNG)
