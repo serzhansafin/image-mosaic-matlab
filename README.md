@@ -50,3 +50,4 @@ Then the hight and width were chosen to be 18
 The resultant image was like that:
 ![Figure 8. Kitten](kitten_18_18.png)
 
+
