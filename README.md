@@ -7,6 +7,6 @@ A grayscale image with constant intensity was created using matrices
 
 ![](figures\1.1_(part_1).PNG)
 
-![alt text](C:\Users\Сержан\Desktop\Lessons\DIP Digital Image Processing\hw1\figures\1.1_(part_1).PNG)
+![alt text](figures\1.1_(part_1).PNG)
 
 
