@@ -62,6 +62,7 @@ A lot of time was taken to produce a photo of one girl
 The height and width were chosen to be 2
 So for the benefit of quality, the price of time was taken :)
 You can see the original photo of the girl:
+
 <img src="figures/girl.jpg" width="400px" height="700px">
 
 And now it is processed, but not till the end, because my patience was over.
