@@ -24,7 +24,12 @@ The intensity was changed according the given function and matrix was formed wit
 ![Figure 4. Part 1: 1.3](figures/1.3(part_1).PNG)
 
 
-
+1.5) A color image where the upper left quadrant is yellow, the lower left quadrant is red, the upper right
+quadrant is green, and the lower right quadrant is black
+So, all the half left was filled with R color
+All the upper half was filled with R color
+When green and red are mixed, yellow color is obtained
+The part where black, rgb color is zero
 ![Figure 5. Part 1: 1.5](figures/1.5(part_1).PNG)
 
 
