@@ -44,10 +44,16 @@ So that the average rgb values of partition of target image and the image locate
 The images in the dataset were created using the image_grab application.
 The images were grabed from the cartoon "Ferdinand".
 Here is the original image of the kitten:
-![Figure 7. Kitten](kitten.jpg)
+![Figure 7. Kitten](figures/kitten.jpg)
 
 Then the hight and width were chosen to be 18
 The resultant image was like that:
-![Figure 8. Kitten](kitten_18_18.png)
+![Figure 8. Kitten](figures/kitten_18_18.png)
 
+Then, the height and width were chosen to be 12
+The result was like this:
+![Figure 9. Kitten](figures/kitten_12_12.png)
+
+Much better now!
+But it took more time to process
 
