@@ -1,6 +1,8 @@
 # image-mocaic-matlab
-The target image is composed from the images dataset
+The target image is composed from the images dataset.
+
 Dataset was obtained by application called imagegrab.
+
 Images were grabbed from the cartoon called "Ferdinand".
 
 # The warm-up part
