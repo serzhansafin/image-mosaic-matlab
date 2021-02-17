@@ -18,9 +18,12 @@ They were alternating one by one, each having 4 pixels width
 
 ![Figure 3. Part 1: 1.2 (2nd)](figures/1.2_variant_2nd(part_1).PNG)
 
-
+1.3) A grayscale image with a ramp intensity distribution, described by I(x, y) = x/2
+The intensity was changed according the given function and matrix was formed with the help of meshgrid
 
 ![Figure 4. Part 1: 1.3](figures/1.3(part_1).PNG)
+
+
 
 ![Figure 5. Part 1: 1.5](figures/1.5(part_1).PNG)
 
