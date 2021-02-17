@@ -5,7 +5,8 @@ The target image is composed from the images dataset
 A grayscale image with constant intensity was created using matrices
 
 
-![](figures\1.1 (part_1).PNG)
-![alt text](C:\Users\Сержан\Desktop\Lessons\DIP Digital Image Processing\hw1\1.1 (part_1).PNG)
+![](figures\1.1_(part_1).PNG)
+
+![alt text](C:\Users\Сержан\Desktop\Lessons\DIP Digital Image Processing\hw1\1.1_(part_1).PNG)
 
 
