@@ -1,4 +1,10 @@
 # Image Processing (ROBT 403): Homework Project 1
+Matlab version R2020a
+## Description
+The homework project 1 consists of two parts: 
+1) warm up part and
+2) main part.
+
 # image-mocaic-matlab
 
 The target image is composed from the images dataset.
