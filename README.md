@@ -1,4 +1,6 @@
+# Image Processing (ROBT 403): Homework Project 1
 # image-mocaic-matlab
+
 The target image is composed from the images dataset.
 
 Dataset was obtained by application called imagegrab.
