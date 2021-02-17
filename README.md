@@ -48,7 +48,7 @@ Here is the original image of the kitten:
 
 Then the hight and width were chosen to be 18
 The resultant image was like that:
-![Figure 8. Kitten](figures/kitten_18_18.png)
+![Figure 8. Kitten](figures/kitten_18_18.PNG)
 
 Then, the height and width were chosen to be 12
 The result was like this:
