@@ -39,4 +39,14 @@ The part where black, rgb color is zero
 
 # Main Part
 
+The original (target) image was divided into partitions.
+So that the average rgb values of partition of target image and the image located in the dataset would be compared.
+The images in the dataset were created using the image_grab application.
+The images were grabed from the cartoon "Ferdinand".
+Here is the original image of the kitten:
+![Figure 7. Kitten](kitten.jpg)
+
+Then the hight and width were chosen to be 18
+The resultant image was like that:
+![Figure 8. Kitten](kitten_18_18.png)
 
