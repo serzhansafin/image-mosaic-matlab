@@ -9,10 +9,16 @@ A 1000x1000 8-bit image was created.
 
 1.2) A grayscale image with alternating black and white vertical stripes, each of which is 4 pixels wide
 There I have implemented 2 variants of that
-The first one 
+The first one grdually changes from black to white alternating the vertical stripes with width 4 pixels
+
 ![Figure 2. Part 1: 1.2](figures/1.2_variant_1st(part_1).PNG)
 
+The second variant includes immediate change of black and white only, i.e the vertical stripes (0 and 255)
+They were alternating one by one, each having 4 pixels width
+
 ![Figure 3. Part 1: 1.2 (2nd)](figures/1.2_variant_2nd(part_1).PNG)
+
+
 
 ![Figure 4. Part 1: 1.3](figures/1.3(part_1).PNG)
 
