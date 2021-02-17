@@ -53,7 +53,7 @@ The resultant image was like that:
 
 Then, the height and width were chosen to be 12
 The result was like this:
-![Figure 9. Kitten](figures/kitten_12_12.png)
+![Figure 9. Kitten](figures/kitten_12_12.PNG)
 
 Much better now!
 But it took more time to process
