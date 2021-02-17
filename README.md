@@ -37,6 +37,6 @@ When green and red are mixed, yellow color is obtained
 The part where black, rgb color is zero
 ![Figure 6. Part 1: 1.5](figures/1.5(part_1).PNG)
 
-
+# Main Part
 
 
