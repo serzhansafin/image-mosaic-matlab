@@ -74,6 +74,10 @@ Then the height and width were chosen to be 7.
 And the result is here:
 ![Figure 10. Kitten](figures/kitten_7_7.PNG)
 
+Here you can see the image, where the hight and width of patches were 4
+
+![Figure 10. Kitten](figures/kitten_4_4.PNG)
+
 A lot of time was taken to produce a photo of one girl
 The height and width were chosen to be 2
 So for the benefit of quality, the price of time was taken :)
