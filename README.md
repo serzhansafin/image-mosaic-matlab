@@ -1,4 +1,4 @@
-# Image Processing (ROBT 403): Homework Project 1
+# Image Processing (ROBT 310): Homework Project 1
 Matlab version R2020a
 ## Description
 The homework project 1 consists of two parts: 
